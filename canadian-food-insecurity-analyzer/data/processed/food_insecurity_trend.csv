@@ -1,0 +1,61 @@
+year,province_code,province,food_insecurity_pct
+2019,NL,Newfoundland and Labrador,18.9
+2019,PE,Prince Edward Island,17.3
+2019,NS,Nova Scotia,20.9
+2019,NB,New Brunswick,17.8
+2019,QC,Quebec,14.4
+2019,ON,Ontario,17.0
+2019,MB,Manitoba,19.1
+2019,SK,Saskatchewan,17.2
+2019,AB,Alberta,19.2
+2019,BC,British Columbia,16.2
+2020,NL,Newfoundland and Labrador,17.7
+2020,PE,Prince Edward Island,18.6
+2020,NS,Nova Scotia,18.0
+2020,NB,New Brunswick,15.7
+2020,QC,Quebec,10.9
+2020,ON,Ontario,17.3
+2020,MB,Manitoba,18.2
+2020,SK,Saskatchewan,17.7
+2020,AB,Alberta,18.5
+2020,BC,British Columbia,16.2
+2021,NL,Newfoundland and Labrador,17.5
+2021,PE,Prince Edward Island,16.5
+2021,NS,Nova Scotia,17.7
+2021,NB,New Brunswick,18.4
+2021,QC,Quebec,12.7
+2021,ON,Ontario,16.1
+2021,MB,Manitoba,17.1
+2021,SK,Saskatchewan,18.5
+2021,AB,Alberta,19.7
+2021,BC,British Columbia,14.6
+2022,NL,Newfoundland and Labrador,22.5
+2022,PE,Prince Edward Island,23.6
+2022,NS,Nova Scotia,22.0
+2022,NB,New Brunswick,22.7
+2022,QC,Quebec,14.7
+2022,ON,Ontario,19.2
+2022,MB,Manitoba,19.6
+2022,SK,Saskatchewan,20.3
+2022,AB,Alberta,21.8
+2022,BC,British Columbia,16.8
+2023,NL,Newfoundland and Labrador,26.0
+2023,PE,Prince Edward Island,28.6
+2023,NS,Nova Scotia,28.9
+2023,NB,New Brunswick,25.6
+2023,QC,Quebec,15.7
+2023,ON,Ontario,24.5
+2023,MB,Manitoba,26.8
+2023,SK,Saskatchewan,28.0
+2023,AB,Alberta,27.4
+2023,BC,British Columbia,21.8
+2024,NL,Newfoundland and Labrador,30.1
+2024,PE,Prince Edward Island,24.6
+2024,NS,Nova Scotia,29.3
+2024,NB,New Brunswick,29.5
+2024,QC,Quebec,19.8
+2024,ON,Ontario,26.4
+2024,MB,Manitoba,25.6
+2024,SK,Saskatchewan,30.6
+2024,AB,Alberta,30.9
+2024,BC,British Columbia,24.4

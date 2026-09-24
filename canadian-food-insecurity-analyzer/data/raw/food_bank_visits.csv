@@ -1,0 +1,31 @@
+year,province_code,province,total_visits,child_visits,reporting_food_banks,comparable_to_2019,source_page
+2019,BC,British Columbia,124713,38074,113,true,11
+2019,AB,Alberta,89821,35282,171,true,11
+2019,SK,Saskatchewan,37216,15778,36,true,11
+2019,MB,Manitoba,82067,33280,52,false,11
+2019,ON,Ontario,339613,111051,577,true,11
+2019,QC,Quebec,345184,120025,1150,true,11
+2019,NB,New Brunswick,22625,7123,58,true,11
+2019,NS,Nova Scotia,25629,7463,123,true,11
+2019,PE,Prince Edward Island,2959,1137,6,true,11
+2019,NL,Newfoundland and Labrador,10704,3149,45,true,11
+2024,BC,British Columbia,225605,70073,129,true,23
+2024,AB,Alberta,172832,61379,128,true,23
+2024,SK,Saskatchewan,52877,20473,39,true,23
+2024,MB,Manitoba,55487,26251,12,false,23
+2024,ON,Ontario,736335,218308,653,true,23
+2024,QC,Quebec,721318,254668,1342,true,23
+2024,NB,New Brunswick,32167,11074,69,true,23
+2024,NS,Nova Scotia,39360,11722,142,true,23
+2024,PE,Prince Edward Island,5435,1844,7,true,23
+2024,NL,Newfoundland and Labrador,14236,4139,57,true,23
+2025,BC,British Columbia,223340,68053,131,true,28
+2025,AB,Alberta,210541,75968,127,true,28
+2025,SK,Saskatchewan,55310,20906,41,true,28
+2025,MB,Manitoba,64975,25047,115,false,28
+2025,ON,Ontario,763756,228689,619,true,28
+2025,QC,Quebec,746411,260419,1395,true,28
+2025,NB,New Brunswick,32343,10781,68,true,28
+2025,NS,Nova Scotia,43421,14023,144,true,28
+2025,PE,Prince Edward Island,5350,1757,8,true,28
+2025,NL,Newfoundland and Labrador,15422,4700,64,true,28

@@ -1,0 +1,11 @@
+province_code,province,food_insecurity_2019_pct,food_insecurity_2024_pct,percentage_point_change,change_rank
+SK,Saskatchewan,17.2,30.6,13.400000000000002,1.0
+AB,Alberta,19.2,30.9,11.7,2.0
+NB,New Brunswick,17.8,29.5,11.7,2.0
+NL,Newfoundland and Labrador,18.9,30.1,11.200000000000003,4.0
+ON,Ontario,17.0,26.4,9.399999999999999,5.0
+NS,Nova Scotia,20.9,29.3,8.400000000000002,6.0
+BC,British Columbia,16.2,24.4,8.2,7.0
+PE,Prince Edward Island,17.3,24.6,7.300000000000001,8.0
+MB,Manitoba,19.1,25.6,6.5,9.0
+QC,Quebec,14.4,19.8,5.4,10.0

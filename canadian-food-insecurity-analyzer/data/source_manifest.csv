@@ -1,0 +1,5 @@
+dataset,provider,coverage,retrieved,source_url,notes
+food_bank_visits_2019,Food Banks Canada,March 2019 provincial snapshot,2026-09-20,https://content.foodbankscanada.ca/wordpress/2025/07/HungerCount-2019_FINAL.pdf,Table on report page 11
+food_bank_visits_2024,Food Banks Canada,March 2024 provincial snapshot,2026-09-20,https://content.foodbankscanada.ca/wordpress/2024/10/hungercount-2024-en.pdf,Table on report page 23
+food_bank_visits_2025,Food Banks Canada,March 2025 provincial snapshot,2026-09-20,https://content.foodbankscanada.ca/wordpress/2025/10/FBC_HungerCount_EN_2025.pdf,Table on report page 28
+food_insecurity_2019_2024,Statistics Canada CIS via PROOF,People in food-insecure households by province,2026-09-20,https://datawrapper.dwcdn.net/6cNaP/1/dataset.csv,PROOF chart republishes Statistics Canada public-table estimates
